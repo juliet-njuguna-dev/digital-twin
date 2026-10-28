@@ -1,0 +1,7 @@
+About me: I am a student who builds web apps and AI tools. (Edit this paragraph to describe yourself.)
+
+Skills: Python, JavaScript, APIs and cloud basics. (Edit this to list your real skills.)
+
+Projects: I built a digital twin chatbot with tools, guardrails and a Streamlit interface. (Add your real projects here.)
+
+Interests: (Add your hobbies and interests here. Do not put phone numbers, emails or passwords in this file.)
