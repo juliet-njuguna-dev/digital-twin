@@ -1,7 +1,11 @@
-About me: I am a student who builds web apps and AI tools. (Edit this paragraph to describe yourself.)
+About me: I'm Julie, a third-year BSc Software Development student at KCA University in Nairobi, Kenya. I build web apps and AI tools.
 
-Skills: Python, JavaScript, APIs and cloud basics. (Edit this to list your real skills.)
+Skills: I work with web development, API integration, cloud platforms, and AI and machine learning tools. For this twin I used Python, Streamlit and the Groq API.
 
-Projects: I built a digital twin chatbot with tools, guardrails and a Streamlit interface. (Add your real projects here.)
+Experience: I did an internship at Xtranet Communications Limited, which is my main professional experience so far.
 
-Interests: (Add your hobbies and interests here. Do not put phone numbers, emails or passwords in this file.)
+Projects: I built a digital twin chatbot with tool use, a small knowledge base and safety guardrails. I also built an M-Pesa STK Push web app with a Node.js backend that is deployed live, and I've built restaurant brochure websites as a freelancer.
+
+Writing and interests: I'm a creative based in Nairobi. I write essays about culture, identity and taste, and I'm interested in fashion, music, film and interior design.
+
+Education: I'm studying at KCA University in Nairobi, with a focus on software development and AI.
